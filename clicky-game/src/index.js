@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "bootstrap/dist/css/bootstrap.css";
-// import Header from "./components/header";
-import Game from "./components/game";
+import "font-awesome/css/font-awesome.css";
+import App from "./app";
 
-ReactDOM.render(<Game />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root"));
