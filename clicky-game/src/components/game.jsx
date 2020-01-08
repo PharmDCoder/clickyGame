@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Header from "./header";
 import Sources from "../data";
+import Jumbotron from "./jumbotron";
 
 class Game extends Component {
   state = {
@@ -35,6 +36,7 @@ class Game extends Component {
           score={this.state.score}
           topScore={this.state.topScore}
         ></Header>
+        <Jumbotron></Jumbotron>
         <main className="container">
           <div className="row" style={{ "margin-top": 70 }}>
             <div className="col-12">
