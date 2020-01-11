@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/clickyGame/static/js/main.bbf44b2a.chunk.js",
+    "main.js.map": "/clickyGame/static/js/main.bbf44b2a.chunk.js.map",
+    "runtime-main.js": "/clickyGame/static/js/runtime-main.54eabe31.js",
+    "runtime-main.js.map": "/clickyGame/static/js/runtime-main.54eabe31.js.map",
+    "static/css/2.47e3df45.chunk.css": "/clickyGame/static/css/2.47e3df45.chunk.css",
+    "static/js/2.48cfe3ac.chunk.js": "/clickyGame/static/js/2.48cfe3ac.chunk.js",
+    "static/js/2.48cfe3ac.chunk.js.map": "/clickyGame/static/js/2.48cfe3ac.chunk.js.map",
+    "index.html": "/clickyGame/index.html",
+    "precache-manifest.359c6271818914eb96db47cb53c9b509.js": "/clickyGame/precache-manifest.359c6271818914eb96db47cb53c9b509.js",
+    "service-worker.js": "/clickyGame/service-worker.js",
+    "static/css/2.47e3df45.chunk.css.map": "/clickyGame/static/css/2.47e3df45.chunk.css.map",
+    "static/js/2.48cfe3ac.chunk.js.LICENSE": "/clickyGame/static/js/2.48cfe3ac.chunk.js.LICENSE",
+    "static/media/font-awesome.css": "/clickyGame/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/img1.jpg": "/clickyGame/static/media/img1.330e0049.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54eabe31.js",
+    "static/css/2.47e3df45.chunk.css",
+    "static/js/2.48cfe3ac.chunk.js",
+    "static/js/main.bbf44b2a.chunk.js"
+  ]
+}
